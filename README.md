@@ -74,9 +74,10 @@ The generated dashboard provides a dynamic view of the sales data. Key elements 
 ## 🤝 Contact & Collaboration
 I'm Ruchika Kumbhar, always open to work and collaborations on data analytics and dashboard projects. If you found this analysis insightful or are interested in working together, please feel free to connect!
 
-LinkedIn: linkedin.com/in/ruchika-kumbhar-da
+### 🔗 Connect with me:
+- [LinkedIn](https://linkedin.com/in/ruchika-kumbhar-da)
+- [GitHub](https://github.com/ruchikakumbhar-tech)
 
-GitHub: github.com/ruchikakumbhar-tech
 
 Thank you for checking out this project! 🚀 
 
